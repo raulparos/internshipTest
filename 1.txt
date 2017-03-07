@@ -2,3 +2,4 @@ This is a test file that is changed for the second commit
 as
 my text
 my text 2
+3
